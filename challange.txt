@@ -1,0 +1,6 @@
+Buat program yang mengandung 5 unsur berikut :
+1. Array
+2. Perulangan
+3. Percabangan
+4. Void
+5. Non Void
