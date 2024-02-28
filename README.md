@@ -1,2 +1,2 @@
-# C-
+# C++
 BELAJAR C++ DENGAN GRATIS
